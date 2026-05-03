@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s1",
+    "name": "Carlos Fernández",
+    "password": "scout123",
+    "role": "Head Scout",
+    "favorites": [],
+    "avatar": "CF"
+  },
+  {
+    "id": "s2",
+    "name": "Ana Martínez",
+    "password": "scout456",
+    "role": "Analista Scout",
+    "favorites": [],
+    "avatar": "AM"
+  },
+  {
+    "id": "s3",
+    "name": "Diego Ruiz",
+    "password": "scout789",
+    "role": "Scout Territorial",
+    "favorites": [],
+    "avatar": "DR"
+  }
+]
